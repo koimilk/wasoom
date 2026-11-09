@@ -48,15 +48,15 @@ Because modern browsers restrict WebAssembly, Web Audio, and fetch requests over
 ### Option 1: Using Python
 If you have Python installed:
 ```bash
-# Navigate to the dist folder (or project root if serving dist)
-cd dist
+# Navigate to the build folder (or project root if serving build)
+cd build
 python -m http.server 8000
 ```
 Then navigate to `http://localhost:8000` in your browser.
 
 ### Option 2: Using Node.js (npx)
 ```bash
-cd dist
+cd build
 npx serve .
 ```
 
