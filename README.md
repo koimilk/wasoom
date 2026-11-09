@@ -22,7 +22,7 @@
   - Optional **WASD** movement (with intelligent fallback so typing save game names still works).
   - Mouse look with pointer lock (left-click fire, right-click interact/use, mouse wheel weapon cycling).
   - **Always Run** toggle.
-- **Cheats Menu**: Built-in in-game cheat overlay (press <kbd>`</kbd>) with quick buttons for God Mode (`IDDQD`), All Weapons & Keys (`IDKFA`), No-Clip (`IDCLIP`), level warp (`IDCLEV`), and more.
+- **Cheats Menu**: Built-in in-game cheat overlay (press `` ` ``) with quick buttons for God Mode (`IDDQD`), All Weapons & Keys (`IDKFA`), No-Clip (`IDCLIP`), level warp (`IDCLEV`), and more.
 - **True Fullscreen**: Seamless aspect-ratio preserving fullscreen mode (<kbd>Alt</kbd> + <kbd>Enter</kbd>).
 
 ---
@@ -61,10 +61,10 @@ npx serve .
 ```
 
 ### Option 3: GitHub Pages
-You can deploy the contents of the `dist` directory straight to **GitHub Pages**:
+You can deploy the contents of the `build` directory straight to **GitHub Pages**:
 1. Push the repository to GitHub.
 2. In your repository settings, go to **Pages**.
-3. Choose the branch and folder (e.g. `main` / `dist` or root depending on your repository structure) and deploy.
+3. Choose the branch and folder (e.g. `main` / `build` or root depending on your repository structure) and deploy.
 
 ---
 
