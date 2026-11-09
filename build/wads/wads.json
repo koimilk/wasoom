@@ -1,0 +1,5 @@
+﻿[
+  { "file": "doom1.wad", "title": "DOOM (Shareware)", "desc": "Original Episode 1: Knee-Deep in the Dead" },
+  { "file": "freedoom1.wad", "title": "Freedoom: Phase 1", "desc": "Free replacement for The Ultimate DOOM (4 episodes)" },
+  { "file": "freedoom2.wad", "title": "Freedoom: Phase 2", "desc": "Free replacement for DOOM II (32 levels)" }
+]
